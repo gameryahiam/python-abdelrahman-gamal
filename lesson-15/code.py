@@ -1,0 +1,10 @@
+print(5+6)
+print(67-6)
+print(5*6)
+print(67/6)
+
+print(type(5))
+print(type(67))
+print(type(5.0))
+print(type(67.0))
+print(type(+9j))
